@@ -1,4 +1,5 @@
 1，cloudfare部署网站：https://eveswap-show.pages.dev/
+2，这只是前端文件，合约和后端仓库我设置了private
 注意：最好下载了MetaMask Wallet,否则可能打不开。
 
 ![image](https://github.com/liukuns/EveSwap_Show/assets/128580641/25218d15-7fff-4386-ad8a-679b1c72cd64)
